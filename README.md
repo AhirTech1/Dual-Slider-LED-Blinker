@@ -51,6 +51,3 @@ If you have multiple environments in `platformio.ini`, set the environment with 
 
 ## Contribution
 Feel free to open issues or PRs. Small improvements: add calibration for slider inputs, support for PWM LED brightness, or add a web/serial UI to display slider values.
-
-## License
-Add a license of your choice (MIT recommended) or state that the project is for learning/hobby use.
