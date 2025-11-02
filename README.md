@@ -6,7 +6,7 @@ A small PlatformIO project for ESP32 that reads two slide potentiometers (slider
 
 ## Circuit diagram
 
-The circuit diagram / photo is included below. If you don't see the image, make sure `Screenshot 2025-11-02 193610.png` (or your diagram) is present at the project root.
+The circuit diagram / photo is included below. If you don't see the image, make sure `circuit-diagram.png` (or your diagram) is present at the project root.
 
 ![Circuit diagram](./Screenshot 2025-11-02 193610.png)
 
